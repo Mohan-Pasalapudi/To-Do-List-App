@@ -72,6 +72,7 @@ to-do-list{
   text-align:center;
   margin-top: 100px;
 
+
 }
 h1{
   font-size:4rem;
@@ -93,6 +94,7 @@ button{
 }
 .add-button{
   background-color:rgba(0, 255, 26, 0.763);
+  padding: 25px;
 }
 .add-button:hover{
   background-color:rgba(107, 206, 117, 0.402);
@@ -106,17 +108,17 @@ button{
 .move-button{
   background-color:rgba(38, 109, 250, 0.763);
 }
-.add-button:hover{
+.move-button:hover{
   background-color:rgba(67, 106, 245, 0.769);
 }
 
 input[type="text"]{
    font-size:1.6rem;
-   padding:10px;
+   padding:25px;
    border: 2px rgb(216, 212, 212);
    border-radius: 5px;
    color:black;
-  
+   margin-left: 450px;
   
 
 }
